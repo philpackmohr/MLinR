@@ -6,7 +6,7 @@ Code for the Tutorial at DevOpenSpace Leipzig
 * produces confusion matrix
 
 # ToDo
-* make it easier for useres by producing a package
+* make it easier for users by producing a package
 * introduce more functionality by including more learners
 * by collaborating with others : You are welcome to join. 
 
