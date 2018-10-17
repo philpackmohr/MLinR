@@ -50,7 +50,7 @@ iris.test <- iris[ind==2, 1:4]
 # Inspect test set
 head(iris.test)
 
-# Compose `iris` training labels
+# Compose iris training labels
 iris.trainLabels <- iris[ind==1,5]
 
 # Inspect result
