@@ -1,5 +1,5 @@
 # MLinR
-Code for the Tutorial at DevOpenSpace Leipzig
+Code for the Tutorial at Spartakiade Berlin 2019
 
 * Fetches the data from UCI
 * applies learner 
