@@ -14,4 +14,4 @@ Code for the Tutorial at GW Leipzig 2019
 * I have a broad overview of the commonly used ml algorithms
 * I have learned, how to approach data analysis
 * I know when to use which algorithm and how to evaluate the results
-* I gained a lot of motivation to further explore data science - thank you!
+* I gained a lot of motivation to further explore data science 
